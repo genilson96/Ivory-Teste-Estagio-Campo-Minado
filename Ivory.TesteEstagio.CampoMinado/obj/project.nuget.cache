@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNyrKrJj/4adTUvoRm08Nc089evegju4RDU2EEb/dbYj0VX7ORqz8BBVXdedLl9U+j3TWLwPkFhsJXHng7IHdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\genilson frança\\Documents\\repositorio\\Teste estagio\\ivoryit-testeestagio-campo-minado\\Ivory.TesteEstagio.CampoMinado\\Ivory.TesteEstagio.CampoMinado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\genilson frança\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\genilson frança\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
